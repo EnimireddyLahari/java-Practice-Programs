@@ -1,0 +1,17 @@
+package corejavatraining;
+
+public class ArthemeticOps {
+
+	public static void main(String[] args) {
+		int a=10;
+		int b=20;
+		System.out.println(a>10 || b>5);
+		System.out.println(a<10 || b>30);
+		System.out.println(a>20 || b>30);
+		
+		
+		
+
+	}
+
+}
